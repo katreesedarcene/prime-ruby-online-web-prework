@@ -1,7 +1,8 @@
-def prime?(num)
-if prime = num < 2
+def prime?(num) 
+  prime = num < 2
 return true
-else 
+
+ 
  end
     
   
