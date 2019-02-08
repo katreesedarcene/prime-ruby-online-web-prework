@@ -1,5 +1,5 @@
 def prime?(num) 
-  Prime.each(100)
+  
 return true
 
  
