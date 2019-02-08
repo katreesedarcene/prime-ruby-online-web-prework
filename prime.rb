@@ -1,5 +1,6 @@
 def prime?(num) 
   
+  
 return true
 
  
