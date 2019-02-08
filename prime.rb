@@ -1,5 +1,5 @@
 def prime?(num) 
-   prime = num < 3 
+   prime = num <  
 return true
 
  
